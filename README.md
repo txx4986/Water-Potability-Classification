@@ -5,5 +5,5 @@ Here is the link to the dataset: https://www.kaggle.com/adityakadiwal/water-pota
 
 <h1>Poster 📊</h1>
 I have created a poster which explained the experimental study I have conducted on different classification algorithms and recommended the preferred classifier for this dataset.
-The pdf of the poster named as [here](www.google) has been uploaded into the repository. I have also uploaded the R code used to implement the classification algorithms as well as create the plots and confusion matrices in the poster. The codes are still very messy at the moment, but I will update them once I have time to do so!
+The pdf of the poster named as [here](https://github.com/txx4986/Water-Potability-Classification/blob/main/Year%201%20Individual%20Research%20Project) has been uploaded into the repository. I have also uploaded the R code used to implement the classification algorithms as well as create the plots and confusion matrices in the poster. The codes are still very messy at the moment, but I will update them once I have time to do so!
 
